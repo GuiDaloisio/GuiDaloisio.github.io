@@ -118,7 +118,7 @@ body {
 }
 
 hr {
-  border-top: 1px solid #556B0A !important;
+  border: 1px solid #556B0A !important;
 }
 
 .baixo {
@@ -299,6 +299,7 @@ display: block;
 
 #item {
   text-decoration: none;
+  color: #fefefe;
 }
 
 a {
