@@ -285,6 +285,10 @@ display: block;
   font-family: 'Rajdhani';
 }
 
+.footer-content p {
+  font-family: 'Rajdhani';
+}
+
 .footer-principal {
   font-family: 'Alien Double';
 }
