@@ -300,3 +300,7 @@ display: block;
 #item {
   text-decoration: none;
 }
+
+a {
+  text-decoration: none;
+}
